@@ -108,7 +108,7 @@ app.post('/api/articles/:name/comments', async (req, res) => {
     }
 });
 
-const PORT = process.env.PIRT || 8000;
+const PORT = process.env.PORT || 8000;
 
 connectToDb(() => {
     console.log('Successfully connected to database!');
