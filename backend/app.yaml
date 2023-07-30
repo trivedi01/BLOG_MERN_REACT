@@ -1,0 +1,4 @@
+runtime: nodejs18
+env_variables:
+  MONGO_USERNAME: node-server
+  MONGO_PASSWORD: PXVY6vbkIwL3d0qH
