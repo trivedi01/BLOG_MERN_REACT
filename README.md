@@ -133,7 +133,7 @@ We welcome contributions to Blog App! Whether you've discovered a bug, have sugg
 
    Contributions to documentation, including clarifications, examples, and guides, are highly valuable. Feel free to submit documentation changes through pull requests.
 
-Your contributions play a vital role in making UniVerse a better platform. Thank you for your involvement!
+Your contributions play a vital role in making Blog App a better platform. Thank you for your involvement!
 
 
 
